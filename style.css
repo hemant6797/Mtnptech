@@ -1,0 +1,45 @@
+
+        <style>
+        body,
+        div{ justify-content: center;
+            
+            
+
+            color:orangered;
+            display: flex;
+            font-size: 30px;
+            
+            
+            
+        }
+        a{cursor: pointer; 
+            display: inline-block;
+            
+
+            margin: 10px;
+
+
+        }
+         #f1{
+             background-image: url("ele2.jpg");
+             height: 800px;
+             width: 1500px;
+             background-size: cover;
+             
+         }
+         #f2{padding: ;
+           
+           
+             
+         }
+         #div1{
+          
+             justify-content: center;
+             align-items: center;
+         
+        }
+        
+        
+
+
+    </style>
